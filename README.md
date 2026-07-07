@@ -32,4 +32,5 @@ ArcSeal uses a transparent wallet-native payment model. Users approve a small US
 The application is built as a real Arc Testnet DApp with browser-wallet connection, Arc network detection and switching, USDC approval, wallet-signed transactions, pending/success/failure states, transaction hashes, and ArcScan links.
 
 ArcSeal demonstrates a non-financial use case for Arc: privacy-preserving document verification, intellectual-property timestamping, research-data provenance, digital certificate validation, agreement proof, milestone evidence, and tamper-evident file records.
-![Uploading 1c7bf19ed288acfa2fdef82c55ed67d2.png…]()
+<img width="1803" height="798" alt="1c7bf19ed288acfa2fdef82c55ed67d2" src="https://github.com/user-attachments/assets/fc9af221-ce4b-4632-9437-4178c9b388ef" />
+
